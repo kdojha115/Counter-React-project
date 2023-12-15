@@ -2,3 +2,27 @@ label, input, button {
     margin: 10px;
     padding: 5px;
 }
+
+.TodoApplication {
+    background-color: rgb(237, 242, 242);
+    margin: 10px;
+}
+.successMessage {
+    color: rgb(6, 206, 56);
+}
+
+.errorMessage {
+    color: red;
+}
+
+.Login {
+    margin: 10px;
+    padding: 10px;
+}
+
+.Submit {
+    width: 250px;
+    background-color: blue;
+    border-radius: 5px;
+}
+
