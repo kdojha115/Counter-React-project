@@ -1,9 +1,7 @@
-import { useContext } from "react"
-import { AuthContext } from "./Security/AuthContext"
 
 export default function FooterComponent() {
 
-    const authContext = useContext(AuthContext)
+    // const authContext = useContext(AuthContext)
 
     // console.log(`Footer Component - ${authContext.number}`)
 
